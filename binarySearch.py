@@ -1,5 +1,3 @@
-from math import floor
-from turtle import left
 from typing import List
 
 
